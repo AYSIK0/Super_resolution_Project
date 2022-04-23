@@ -130,5 +130,9 @@ dmypy.json
 
 .DS_Store
 
-Original_Datasets
+#Datasets Ignored
+DIV2K
+historical
+Manga109
+# Other files
 training_checkpoints
